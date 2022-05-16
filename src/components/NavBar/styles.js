@@ -6,9 +6,11 @@ export const Container = styled.div`
     margin: 0 auto;
     justify-content: space-between;
     align-items: center;
+    font-family: 'Roboto';
 `
 
 export const Logo = styled.h1`
+
 `
 
 export const List = styled.ul`
